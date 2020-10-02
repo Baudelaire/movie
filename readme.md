@@ -1,11 +1,11 @@
 # Readme
--
  Se tiene un servicio de registro para optener un token básico para la autenticación del usuario(http://localhost:8000/api/v1/register) con el cuerpo 
  <pre>{
   "first_name": "string",
   "last_name": "string",
   "password": "string",
   "email": "user@example.com"
+  }
 </pre>
 La documentación puede ser interactiva en : http://localhost:8000/swagger/
 -
